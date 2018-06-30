@@ -1,0 +1,50 @@
+h1 {
+	font-family: 'Shojumaru', cursive;
+	font-size: 64px;
+	margin-left: 25px;
+	/*color: #4e4e55;*/
+}
+
+
+button {
+	margin-left: 25px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 6px;
+	font-family: 'Shojumaru', cursive;
+	font-size: 28px;
+	color: #4e4e55;
+	text-decoration: none;
+	cursor: pointer;
+	background-color: #ddd;
+	border: 3px solid #555;
+	height: 60px;
+	width: 200px;
+}
+
+button:hover {
+	opacity: .75;
+}
+
+a {
+	color: #000;
+}
+.text{
+	font-family: 'Nosifer', cursive;
+}
+
+#excuses {
+	position: relative;
+	top: 30px;
+	left: 25px;
+	font-family: 'Nosifer', cursive;
+	font-size: 96px;
+	color: #009;
+}
+body{
+	background-image: url("bgcolor.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+
